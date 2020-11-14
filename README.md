@@ -1,4 +1,4 @@
-# Medidor de Livre Arbitrio (WIP)
+# Medidor de Livre Arbitrio (Heavily WIP)
 
 Grupo aMuDi
 
